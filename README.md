@@ -57,7 +57,7 @@ The application entry point is:
 3. Run the application:
 ```bash
 python Application.py
-
+```
 
 Academic Context
 
