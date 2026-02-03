@@ -57,3 +57,36 @@ The application entry point is:
 3. Run the application:
 ```bash
 python Application.py
+
+
+Academic Context
+
+This project was developed for:
+
+University of Northampton
+
+BSc Computer Science
+
+Module: CSY1020 – Problem Solving & Programming
+
+It demonstrates:
+
+Encapsulation, inheritance, abstraction, and polymorphism
+
+Separation of business logic from presentation logic
+
+Maintainable and scalable application structure
+
+Documentation & Demo
+
+Full project report included in this repository
+
+Video demonstration:
+
+https://www.youtube.com/watch?v=VjZdsMqxRd4
+
+Author
+
+Abdinasir Jama
+Computer Science Student
+University of Northampton
