@@ -61,23 +61,15 @@ python Application.py
 
 Academic Context
 
-This project was developed for:
+This project was developed for  the Computer Science module CSY 1020 Problem Solving & Programming at the University Of Northampton to demonstrate the following:
 
-University of Northampton
+- Encapsulation, inheritance, abstraction, and polymorphism
 
-BSc Computer Science
+- Separation of business logic from presentation logic
 
-Module: CSY1020 – Problem Solving & Programming
+- Maintainable and scalable application structure
 
-It demonstrates:
-
-Encapsulation, inheritance, abstraction, and polymorphism
-
-Separation of business logic from presentation logic
-
-Maintainable and scalable application structure
-
-Documentation & Demo
+- Documentation & Demo
 
 Full project report included in this repository
 
@@ -85,7 +77,7 @@ Video demonstration:
 
 https://www.youtube.com/watch?v=VjZdsMqxRd4
 
-Author
+Yours Sincerely
 
 Abdinasir Jama
 Computer Science Student
