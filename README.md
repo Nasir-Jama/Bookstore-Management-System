@@ -80,5 +80,3 @@ https://www.youtube.com/watch?v=VjZdsMqxRd4
 Yours Sincerely
 
 Abdinasir Jama
-Computer Science Student
-University of Northampton
