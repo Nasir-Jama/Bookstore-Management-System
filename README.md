@@ -38,3 +38,22 @@ The system follows a **Model–View–Controller (MVC)-style design**:
   `BookStoreApp.py` manages navigation and interaction between UI and core logic
 
 The application entry point is:
+
+- Application.py
+
+
+
+## Technologies Used
+- Python 3
+- Tkinter (GUI)
+- Object-Oriented Programming (OOP)
+- MVC-style architectural pattern
+
+---
+
+## How to Run
+1. Ensure Python 3 is installed
+2. Clone or download the repository
+3. Run the application:
+```bash
+python Application.py
